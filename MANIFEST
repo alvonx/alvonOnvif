@@ -1,0 +1,6 @@
+setup.cfg
+setup.py
+alvonOnvif\CameraClient.py
+alvonOnvif\OnvifUtils.py
+alvonOnvif\StreamHandler.py
+alvonOnvif\__init__.py

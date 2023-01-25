@@ -1,0 +1,13 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+alvonOnvif/CameraClient.py
+alvonOnvif/OnvifUtils.py
+alvonOnvif/StreamHandler.py
+alvonOnvif/__init__.py
+alvonOnvif.egg-info/PKG-INFO
+alvonOnvif.egg-info/SOURCES.txt
+alvonOnvif.egg-info/dependency_links.txt
+alvonOnvif.egg-info/requires.txt
+alvonOnvif.egg-info/top_level.txt

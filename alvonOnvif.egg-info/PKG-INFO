@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: alvonOnvif
+Version: 0.0.1
+Summary: Custom Onvif
+Home-page: https://github.com/alvonx/alvonOnvif.git
+Download-URL: 
+Author: Deepak Singh
+Keywords: opencv,onvif,alvon,stream,logging,onvif-stream
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+# Onvif Custom 
+
+Features
+- Provide rtsp link
+- Provide snapshot link
+- Loggers
